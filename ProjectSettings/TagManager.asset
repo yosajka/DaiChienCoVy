@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ScoreTag
+  - EnemyShipTag
+  - HealthTag
+  - SpeedTag
+  - EnemyBulletTag
+  - EnemyGun
+  - PlayerShipTag
+  - PlayerShield
+  - LevelUpWeaponTag
+  - PlayerBulletTag
+  - ShieldTag
+  - AsteroidTag
+  - BossTag
+  - YellowBulletTag
+  - Campaign1ControlTag
+  - Campaign1ManagerTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

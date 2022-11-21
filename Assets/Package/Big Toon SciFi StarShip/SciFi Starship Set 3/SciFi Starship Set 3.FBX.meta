@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a7c10c4370f66ec409725f0588f47024
+timeCreated: 1462611912
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: SciFi Starship 7
+    100002: SciFi Starship 7 1
+    100004: SciFi Starship 7.2
+    100006: SciFi Starship 7.2 1
+    100008: SciFi Starship 7.3
+    100010: SciFi Starship 7.3 1
+    100012: SciFi Starship 8
+    100014: SciFi Starship 8.2
+    100016: SciFi Starship 8.3
+    100018: SciFi Starship 9
+    100020: SciFi Starship 9.2
+    100022: SciFi Starship 9.3
+    100024: //RootNode
+    100026: SciFi starship7.2_highligh001
+    100028: SciFi starship7.2_highligh002
+    100030: SciFi starship7.3_highligh
+    100032: SciFi starship7.3_highligh 1
+    100034: SciFi starship7_highligh
+    100036: SciFi starship7_highligh 1
+    400000: SciFi Starship 7
+    400002: SciFi Starship 7 1
+    400004: SciFi Starship 7.2
+    400006: SciFi Starship 7.2 1
+    400008: SciFi Starship 7.3
+    400010: SciFi Starship 7.3 1
+    400012: SciFi Starship 8
+    400014: SciFi Starship 8.2
+    400016: SciFi Starship 8.3
+    400018: SciFi Starship 9
+    400020: SciFi Starship 9.2
+    400022: SciFi Starship 9.3
+    400024: //RootNode
+    400026: SciFi starship7.2_highligh001
+    400028: SciFi starship7.2_highligh002
+    400030: SciFi starship7.3_highligh
+    400032: SciFi starship7.3_highligh 1
+    400034: SciFi starship7_highligh
+    400036: SciFi starship7_highligh 1
+    2300000: SciFi Starship 7 1
+    2300002: SciFi Starship 7.2 1
+    2300004: SciFi Starship 7.3 1
+    2300006: SciFi Starship 8
+    2300008: SciFi Starship 8.2
+    2300010: SciFi Starship 8.3
+    2300012: SciFi Starship 9
+    2300014: SciFi Starship 9.2
+    2300016: SciFi Starship 9.3
+    2300018: SciFi starship7.2_highligh001
+    2300020: SciFi starship7.2_highligh002
+    2300022: SciFi starship7.3_highligh
+    2300024: SciFi starship7.3_highligh 1
+    2300026: SciFi starship7_highligh
+    2300028: SciFi starship7_highligh 1
+    3300000: SciFi Starship 7 1
+    3300002: SciFi Starship 7.2 1
+    3300004: SciFi Starship 7.3 1
+    3300006: SciFi Starship 8
+    3300008: SciFi Starship 8.2
+    3300010: SciFi Starship 8.3
+    3300012: SciFi Starship 9
+    3300014: SciFi Starship 9.2
+    3300016: SciFi Starship 9.3
+    3300018: SciFi starship7.2_highligh001
+    3300020: SciFi starship7.2_highligh002
+    3300022: SciFi starship7.3_highligh
+    3300024: SciFi starship7.3_highligh 1
+    3300026: SciFi starship7_highligh
+    3300028: SciFi starship7_highligh 1
+    4300000: SciFi Starship 8
+    4300002: SciFi Starship 9
+    4300004: SciFi Starship 8.2
+    4300006: SciFi Starship 8.3
+    4300008: SciFi Starship 9.2
+    4300010: SciFi Starship 9.3
+    4300012: SciFi Starship 7
+    4300014: SciFi starship7_highligh
+    4300016: SciFi starship7_highligh
+    4300018: SciFi Starship 7.2
+    4300020: SciFi starship7.2_highligh002
+    4300022: SciFi starship7.2_highligh001
+    4300024: SciFi Starship 7.3
+    4300026: SciFi starship7.3_highligh
+    4300028: SciFi starship7.3_highligh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
